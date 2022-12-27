@@ -1,0 +1,15 @@
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\bin\Debug\net7.0\Schoolbook.exe
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\bin\Debug\net7.0\Schoolbook.deps.json
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\bin\Debug\net7.0\Schoolbook.runtimeconfig.json
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\bin\Debug\net7.0\Schoolbook.dll
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\bin\Debug\net7.0\Schoolbook.pdb
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.csproj.AssemblyReference.cache
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.AssemblyInfoInputs.cache
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.AssemblyInfo.cs
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.csproj.CoreCompileInputs.cache
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.dll
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\refint\Schoolbook.dll
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.pdb
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\Schoolbook.genruntimeconfig.cache
+C:\Users\gogia\OneDrive\Desktop\projects\Schoolbook\obj\Debug\net7.0\ref\Schoolbook.dll
